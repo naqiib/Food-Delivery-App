@@ -39,7 +39,7 @@ ForkLane is a cross-platform food delivery application built with **Flutter** an
 
 ## 📱 Screenshots
 
-*(Add screenshots here — a picture of the home screen, cart, and admin dashboard makes this section far more compelling for anyone reviewing the repo.)*
+![alt text](<Screenshot 2026-07-02 141056.png>) ![alt text](<Screenshot 2026-07-02 141036.png>) ![alt text](<Screenshot 2026-07-02 140911.png>) ![alt text](<Screenshot 2026-07-02 140857.png>)
 
 ---
 
