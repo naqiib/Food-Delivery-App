@@ -36,12 +36,11 @@ ForkLane is a cross-platform food delivery application built with **Flutter** an
 | UI Extras | Carousel Slider, Lottie Animations |
 
 ---
-
 ## 📱 Screenshots
 
-![alt text](<Screenshot 2026-07-02 141056.png>) ![alt text](<Screenshot 2026-07-02 141036.png>) ![alt text](<Screenshot 2026-07-02 140911.png>) ![alt text](<Screenshot 2026-07-02 140857.png>)
-
----
+| ![1](screenshots/1.png) | ![2](screenshots/2.png) |
+|---|---|
+| ![3](screenshots/3.png) | ![4](screenshots/4.png) |
 
 ## 🚀 Getting Started
 
